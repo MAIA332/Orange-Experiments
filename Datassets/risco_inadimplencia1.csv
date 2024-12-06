@@ -1,0 +1,3 @@
+hist_credito,poupanca,divida_cartao,renda,status_risco_pagador
+ruim,alta,nenhuma,0_10,alto
+desconhecida,alta,nenhuma,10_20,alto

@@ -1,0 +1,78 @@
+[
+    {
+      "Poster_Link": "https://example.com/image1.jpg",
+      "Series_Title": "Action Epic",
+      "Released_Year": 2021,
+      "Certificate": "PG-13",
+      "Runtime": "150 min",
+      "Genre": "Action",
+      "IMDB_Rating": 8.2,
+      "Overview": "A group of heroes fights to protect Earth from a powerful villain.",
+      "Meta_score": 78,
+      "Director": "Jane Smith",
+      "Stars": ["Chris Hemsworth", "Scarlett Johansson", "Robert Downey Jr.", "Mark Ruffalo"],
+      "No_of_Votes": 2500000,
+      "Gross": 300500000
+    },
+    {
+      "Poster_Link": "https://example.com/image2.jpg",
+      "Series_Title": "Romantic Tale",
+      "Released_Year": 2019,
+      "Certificate": "R",
+      "Runtime": "120 min",
+      "Genre": "Romance",
+      "IMDB_Rating": 7.5,
+      "Overview": "Two strangers meet on a train and fall in love despite obstacles.",
+      "Meta_score": 65,
+      "Director": "John Doe",
+      "Stars": ["Emma Stone", "Ryan Gosling", "Jennifer Lawrence", "Tom Holland"],
+      "No_of_Votes": 1000000,
+      "Gross": 150000000
+    },
+    {
+      "Poster_Link": "https://example.com/image3.jpg",
+      "Series_Title": "Comedy Nights",
+      "Released_Year": 2018,
+      "Certificate": "PG",
+      "Runtime": "90 min",
+      "Genre": "Comedy",
+      "IMDB_Rating": 6.9,
+      "Overview": "A comedian tries to balance life, family, and career challenges.",
+      "Meta_score": 58,
+      "Director": "Mary Johnson",
+      "Stars": ["Kevin Hart", "Tiffany Haddish", "Will Ferrell", "Steve Carell"],
+      "No_of_Votes": 800000,
+      "Gross": 100000000
+    },
+    {
+      "Poster_Link": "https://example.com/image4.jpg",
+      "Series_Title": "Historical Drama",
+      "Released_Year": 2015,
+      "Certificate": "A",
+      "Runtime": "180 min",
+      "Genre": "Drama",
+      "IMDB_Rating": 9.1,
+      "Overview": "An epic tale of war, love, and sacrifice.",
+      "Meta_score": 90,
+      "Director": "Emily Davis",
+      "Stars": ["Daniel Day-Lewis", "Meryl Streep", "Anthony Hopkins", "Judi Dench"],
+      "No_of_Votes": 3500000,
+      "Gross": 500000000
+    },
+    {
+      "Poster_Link": "https://example.com/image5.jpg",
+      "Series_Title": "Sci-Fi Adventure",
+      "Released_Year": 2023,
+      "Certificate": "PG-13",
+      "Runtime": "140 min",
+      "Genre": "Sci-Fi",
+      "IMDB_Rating": 8.7,
+      "Overview": "A space explorer uncovers secrets of the universe while facing personal challenges.",
+      "Meta_score": 82,
+      "Director": "Michael Brown",
+      "Stars": ["Chris Pratt", "Zoe Saldana", "Bradley Cooper", "Vin Diesel"],
+      "No_of_Votes": 2200000,
+      "Gross": 450000000
+    }
+  ]
+  
